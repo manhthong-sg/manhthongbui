@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and coding in Javascript, Java, C#
 - 💞️ I'm the guy who always ready to enjoy learning new technical
 - 📫 How to reach me:
+  + Gmail: manhthong.work@gmail.com
   + Facebook: https://www.facebook.com/ThongBuiTruongManh/
   + Instagram: https://www.instagram.com/mmanh_thoong/
   + Github: https://github.com/manhthongbui
