@@ -5,6 +5,5 @@
 - 📫 How to reach me:
   + Gmail: manhthong.work@gmail.com
   + Facebook: https://www.facebook.com/ThongBuiTruongManh/
-  + Instagram: https://www.instagram.com/mmanh_thoong/
   + Github: https://github.com/manhthongbui
   + LinkedIn: updating...
