@@ -4,6 +4,6 @@
 - 💞️ I'm the guy who always ready to enjoy learning new technical
 - 📫 How to reach me:
   + Gmail: manhthong.work@gmail.com
-  + Facebook: https://www.facebook.com/ThongBuiTruongManh/
+  + Facebook: https://www.facebook.com/manhthong1105/
   + Github: https://github.com/manhthongbui
   + LinkedIn: updating...
