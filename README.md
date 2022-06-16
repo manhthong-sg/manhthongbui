@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mạnh Thông
-- 👀 I’m currently working as an Fresher at Blockchain Developer.
+- 👀 I’m currently working as a Fresher at Blockchain Developer.
 - 🌱 I’m interested in blockchain, nft, smart contract, finance, mobile app, website, . .
 - 💞️ I'm the guy who always ready to enjoy learning new technical
 - 📫 How to reach me:
