@@ -6,4 +6,4 @@
   + Gmail: manhthong.work@gmail.com
   + Facebook: https://www.facebook.com/manhthong1105
   + Github: https://github.com/manhthongbui
-  + LinkedIn: updating...
+  + LinkedIn: https://www.linkedin.com/in/manhthongbui
